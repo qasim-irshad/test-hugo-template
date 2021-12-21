@@ -1,0 +1,11 @@
+baseURL: "/"
+languageCode: en
+DefaultContentLanguage: en
+title: Personal website for Your Name
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes

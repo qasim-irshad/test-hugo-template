@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your Name</title>
+    <link>/</link>
+    <description>Recent content on Your Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample post - Basic Markdown syntax</title>
+      <link>/post/2021-04-30-sample-post-basic-markdown-syntax/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-04-30-sample-post-basic-markdown-syntax/</guid>
+      <description>Not familiar with Markdown? This sample post introduces the basics</description>
+    </item>
+    
+    <item>
+      <title>Sample post - Using Python in R Markdown</title>
+      <link>/post/2021-04-30-sample-post-using-python-in-r-markdown/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-04-30-sample-post-using-python-in-r-markdown/</guid>
+      <description>This post shows you how to use Python in an R Markdown document</description>
+    </item>
+    
+    <item>
+      <title>Sample post - Using SQL in R Markdown</title>
+      <link>/post/2021-04-30-sample-post-using-sql-in-r-markdown/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-04-30-sample-post-using-sql-in-r-markdown/</guid>
+      <description>This post shows you how to use SQL in an R Markdown document</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Use this page to introduce yourself and your background. Briefly describe your background, field of study, interests, and goals.</description>
+    </item>
+    
+    <item>
+      <title>Sample post - Using R in R Markdown</title>
+      <link>/post/2021-04-22-sample-post-using-r-in-r-markdown/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-04-22-sample-post-using-r-in-r-markdown/</guid>
+      <description>This post demonstrates the use of DT, ggplot2, and plotly R packages for rendering beautiful tables and graphs in an R Markdown document.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
